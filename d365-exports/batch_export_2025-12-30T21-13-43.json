@@ -1,0 +1,717 @@
+{
+  "metadata": {
+    "exportedAt": "2025-12-30T21:13:42.841Z",
+    "d365Environment": "https://nb-test-2.sandbox.operations.dynamics.com",
+    "entityCount": 1,
+    "totalRecords": 100,
+    "exportedBy": "scott.heydorn@newbalance.com"
+  },
+  "entities": [
+    {
+      "name": "WorkerPayrollInfoes",
+      "recordCount": 100,
+      "records": [
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "ARIBA Approver",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100133",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100145",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100239",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100247",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100459",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100582",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100594",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100664",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100889",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101193",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101314",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "102214",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "102616",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "102730",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "110258",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "118983",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "TS14",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "D365 Batch Admin",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "104023",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101660",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117384",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "102611",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100001",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101029",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "106423",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "120208",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "106429",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101031",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "102613",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "120217",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117400",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100002",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101662",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "104024",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "102615",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117420",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101032",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "120223",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101663",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100003",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "104030",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "106436",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101034",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117445",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101670",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "104032",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "106475",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "120243",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100013",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101037",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117457",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "106476",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101673",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100015",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "120259",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101038",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "102617",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117458",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100025",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "120268",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "106485",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "104040",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101039",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101675",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "102620",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117460",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "120276",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100029",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "106486",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "104042",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "102626",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101040",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101676",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117499",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "120278",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100032",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "106521",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "104052",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101042",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "102627",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "120282",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101678",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117502",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100036",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "106531",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "120285",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101681",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "104055",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "100038",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "102628",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101045",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117526",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "106539",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101684",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117530",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101047",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "101686",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "117608",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        },
+        {
+          "dataAreaId": "us10",
+          "Company": "US10",
+          "PersonnelNumber": "120298",
+          "ReadyToPay": "No",
+          "PaymentMethod": "Check"
+        }
+      ]
+    }
+  ]
+}
