@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "exportedAt": "2025-12-30T21:11:34.412Z",
+    "d365Environment": "https://nb-test-2.sandbox.operations.dynamics.com",
+    "entityCount": 1,
+    "totalRecords": 10,
+    "exportedBy": "scott.heydorn@newbalance.com"
+  },
+  "entities": [
+    {
+      "name": "CDSPostalAddressLocations",
+      "recordCount": 10,
+      "records": [
+        {
+          "LocationId": "000000001",
+          "ParentLocationId": "",
+          "Description": "New Balance Athletics, Inc."
+        },
+        {
+          "LocationId": "000000002",
+          "ParentLocationId": "",
+          "Description": "New Balance Canada, Inc"
+        },
+        {
+          "LocationId": "000000003",
+          "ParentLocationId": "",
+          "Description": "New Balance International Limited"
+        },
+        {
+          "LocationId": "000000101",
+          "ParentLocationId": "",
+          "Description": "Blue Dolphin"
+        },
+        {
+          "LocationId": "000000102",
+          "ParentLocationId": "",
+          "Description": "Boston MFG"
+        },
+        {
+          "LocationId": "000000103",
+          "ParentLocationId": "",
+          "Description": "New Balance C/O Crowley Logistics"
+        },
+        {
+          "LocationId": "000000104",
+          "ParentLocationId": "",
+          "Description": "New Balance C/O Cal Cartage"
+        },
+        {
+          "LocationId": "000000105",
+          "ParentLocationId": "",
+          "Description": "New Balance"
+        },
+        {
+          "LocationId": "000000106",
+          "ParentLocationId": "",
+          "Description": "New Balance"
+        },
+        {
+          "LocationId": "000000107",
+          "ParentLocationId": "",
+          "Description": "New Balance"
+        }
+      ]
+    }
+  ]
+}
