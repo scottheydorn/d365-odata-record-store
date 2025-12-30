@@ -1,0 +1,617 @@
+{
+  "metadata": {
+    "exportedAt": "2025-12-30T17:06:16.473Z",
+    "d365Environment": "https://nb-test-2.sandbox.operations.dynamics.com",
+    "entityCount": 1,
+    "totalRecords": 100,
+    "exportedBy": "scott.heydorn@newbalance.com"
+  },
+  "entities": [
+    {
+      "name": "AllProducts",
+      "recordCount": 100,
+      "records": [
+        {
+          "ProductNumber": "test",
+          "ProductDescription": "",
+          "ProductName": "",
+          "ProductSearchName": ""
+        },
+        {
+          "ProductNumber": "AWJ91160",
+          "ProductDescription": "Printed Accelerate Windcheater Jacket",
+          "ProductName": "Printed Accelerate Windcheater Jacket",
+          "ProductSearchName": "Printed Accelerate W"
+        },
+        {
+          "ProductNumber": "M460LG4",
+          "ProductDescription": "S224 CD",
+          "ProductName": "460v4",
+          "ProductSearchName": "460v4"
+        },
+        {
+          "ProductNumber": "PV515BC",
+          "ProductDescription": "",
+          "ProductName": "515 HOOK & LOOP",
+          "ProductSearchName": "515 HOOK & LOOP"
+        },
+        {
+          "ProductNumber": "XGC1906ES",
+          "ProductDescription": "1906 Lace",
+          "ProductName": "1906 Lace",
+          "ProductSearchName": "1906 Lace"
+        },
+        {
+          "ProductNumber": "XPC574WM2",
+          "ProductDescription": "574 Windbreaker",
+          "ProductName": "574 Windbreaker",
+          "ProductSearchName": "574 Windbreaker"
+        },
+        {
+          "ProductNumber": "XYK570VL2",
+          "ProductDescription": "570v2",
+          "ProductName": "570v2",
+          "ProductSearchName": "570v2"
+        },
+        {
+          "ProductNumber": "LAK13Q43",
+          "ProductDescription": "PERFORMANCE TEE",
+          "ProductName": "Performance Tee",
+          "ProductSearchName": "Performance Tee"
+        },
+        {
+          "ProductNumber": "SMF200FK",
+          "ProductDescription": "Floral black 200",
+          "ProductName": "200",
+          "ProductSearchName": "200"
+        },
+        {
+          "ProductNumber": "2910425",
+          "ProductDescription": "U990TD4 INSERT",
+          "ProductName": "U990TD4 INSERT",
+          "ProductSearchName": "U990TD4 INSERT"
+        },
+        {
+          "ProductNumber": "FREEZJB2",
+          "ProductDescription": "FREEZJV2",
+          "ProductName": "FreezeLX v2 Jr",
+          "ProductSearchName": "FreezeLX v2 Jr"
+        },
+        {
+          "ProductNumber": "WS45XRC1",
+          "ProductDescription": "WS45XV1",
+          "ProductName": "WS45X",
+          "ProductSearchName": "WS45X"
+        },
+        {
+          "ProductNumber": "LAK23J05",
+          "ProductDescription": "Essential Logo Hoodie",
+          "ProductName": "Essential Logo Hoodie",
+          "ProductSearchName": "Essential Logo Hoodi"
+        },
+        {
+          "ProductNumber": "EJT4000",
+          "ProductDescription": "SE HME JSY SS",
+          "ProductName": "Seoul Eland Home Short Sleeve Jersey",
+          "ProductSearchName": "Seoul Eland Home Sho"
+        },
+        {
+          "ProductNumber": "NBG574LXB",
+          "ProductDescription": "Golf 574 Brown Lu",
+          "ProductName": "Golf 574 Brown Lu",
+          "ProductSearchName": "Golf 574 Brown Lu"
+        },
+        {
+          "ProductNumber": "XU9060ZH",
+          "ProductDescription": "9060",
+          "ProductName": "9060",
+          "ProductSearchName": "9060"
+        },
+        {
+          "ProductNumber": "U997RHB",
+          "ProductDescription": "Heritage Pack",
+          "ProductName": "997R",
+          "ProductSearchName": "997R"
+        },
+        {
+          "ProductNumber": "XWX608BU5",
+          "ProductDescription": "608V5 S1 24 - EPM",
+          "ProductName": "608V5 S1 24 - EPM",
+          "ProductSearchName": "608V5 S1 24 - EPM"
+        },
+        {
+          "ProductNumber": "LAH00953",
+          "ProductDescription": "'47  Hitch Graphic Hat",
+          "ProductName": "'47  Hitch Graphic Hat",
+          "ProductSearchName": "'47  Hitch Graphic H"
+        },
+        {
+          "ProductNumber": "SUF100BK",
+          "ProductDescription": "100 Black",
+          "ProductName": "100",
+          "ProductSearchName": "100"
+        },
+        {
+          "ProductNumber": "W068LK",
+          "ProductDescription": "W068V1",
+          "ProductName": "068",
+          "ProductSearchName": "068"
+        },
+        {
+          "ProductNumber": "BB80CC1",
+          "ProductDescription": "BB80 BRA LOCAL",
+          "ProductName": "BB80",
+          "ProductSearchName": "BB80"
+        },
+        {
+          "ProductNumber": "11000400",
+          "ProductDescription": "TANGOP1MM 0388404",
+          "ProductName": "TANGOP1MM 0388404",
+          "ProductSearchName": "TANGOP1MM 0388404"
+        },
+        {
+          "ProductNumber": "NW574ESE",
+          "ProductDescription": "574 NEW-B HOOK & LOOP",
+          "ProductName": "574 NEW-B HOOK & LOOP",
+          "ProductSearchName": "574 NEW-B HOOK & LOO"
+        },
+        {
+          "ProductNumber": "XU5740IJ2",
+          "ProductDescription": "FIGS 5740",
+          "ProductName": "FIGS 5740",
+          "ProductSearchName": "FIGS 5740"
+        },
+        {
+          "ProductNumber": "XML515HRN",
+          "ProductDescription": "515 Classic",
+          "ProductName": "515 Classic",
+          "ProductSearchName": "515 Classic"
+        },
+        {
+          "ProductNumber": "GC5740",
+          "ProductDescription": "",
+          "ProductName": "57/40",
+          "ProductSearchName": "57/40"
+        },
+        {
+          "ProductNumber": "61-4513",
+          "ProductDescription": "MONGLO YELGL #40",
+          "ProductName": "MONGLO YELGL #40",
+          "ProductSearchName": "MONGLO YELGL #40"
+        },
+        {
+          "ProductNumber": "PV500TN1",
+          "ProductDescription": "PV500V1",
+          "ProductName": "500 Hook & Loop",
+          "ProductSearchName": "500 Hook & Loop"
+        },
+        {
+          "ProductNumber": "XGM500XN2",
+          "ProductDescription": "500",
+          "ProductName": "500",
+          "ProductSearchName": "500"
+        },
+        {
+          "ProductNumber": "WL574VM2",
+          "ProductDescription": "CANCELED",
+          "ProductName": "574",
+          "ProductSearchName": "574"
+        },
+        {
+          "ProductNumber": "GR530SB1",
+          "ProductDescription": "530 LACE",
+          "ProductName": "530 LACE",
+          "ProductSearchName": "530 LACE"
+        },
+        {
+          "ProductNumber": "2910348",
+          "ProductDescription": "M990BB3 Insert",
+          "ProductName": "M990BB3 Insert",
+          "ProductSearchName": "M990BB3 Insert"
+        },
+        {
+          "ProductNumber": "60-0626",
+          "ProductDescription": "LTCOUNTERSL1MR001",
+          "ProductName": "LTCOUNTERSL1MR001",
+          "ProductSearchName": "LTCOUNTERSL1MR001"
+        },
+        {
+          "ProductNumber": "10000317",
+          "ProductDescription": "Nubk Black",
+          "ProductName": "Nubk Black",
+          "ProductSearchName": "Nubk Black"
+        },
+        {
+          "ProductNumber": "SWT340E1",
+          "ProductDescription": "colorup",
+          "ProductName": "340",
+          "ProductSearchName": "340"
+        },
+        {
+          "ProductNumber": "IHB550TF",
+          "ProductDescription": "550 Bungee Lace with Top Strap",
+          "ProductName": "550 Bungee Lace with Top Strap",
+          "ProductSearchName": "550 Bungee Lace with"
+        },
+        {
+          "ProductNumber": "XOU576GBP",
+          "ProductDescription": "MADE in UK 576",
+          "ProductName": "MADE in UK 576",
+          "ProductSearchName": "MADE in UK 576"
+        },
+        {
+          "ProductNumber": "XMCYLAVFJ",
+          "ProductDescription": "Fresh Foam Lav V2",
+          "ProductName": "Fresh Foam Lav V2",
+          "ProductSearchName": "Fresh Foam Lav V2"
+        },
+        {
+          "ProductNumber": "GW500PKS",
+          "ProductDescription": "",
+          "ProductName": "500",
+          "ProductSearchName": "500"
+        },
+        {
+          "ProductNumber": "NW300P1",
+          "ProductDescription": "300 NEW-B Hook & Loop",
+          "ProductName": "300 NEW-B Hook & Loop",
+          "ProductSearchName": "300 NEW-B Hook & Loo"
+        },
+        {
+          "ProductNumber": "W680CE7",
+          "ProductDescription": "W680V7",
+          "ProductName": "Fresh Foam 680v7",
+          "ProductSearchName": "Fresh Foam 680v7"
+        },
+        {
+          "ProductNumber": "JJ930509",
+          "ProductDescription": "LFC 6 Times Junior Game Jacket",
+          "ProductName": "LFC 6 Times Junior Game Jacket",
+          "ProductSearchName": "LFC 6 Times Junior G"
+        },
+        {
+          "ProductNumber": "GSX70TB",
+          "ProductDescription": "X70v1",
+          "ProductName": "X70",
+          "ProductSearchName": "X70"
+        },
+        {
+          "ProductNumber": "IC2002FG",
+          "ProductDescription": "2002 Lace",
+          "ProductName": "2002 Lace",
+          "ProductSearchName": "2002 Lace"
+        },
+        {
+          "ProductNumber": "XWS237MD",
+          "ProductDescription": "237",
+          "ProductName": "237",
+          "ProductSearchName": "237"
+        },
+        {
+          "ProductNumber": "UCHCOCOF",
+          "ProductDescription": "FRENCH OPEN",
+          "ProductName": "Coco CG1",
+          "ProductSearchName": "Coco CG1"
+        },
+        {
+          "ProductNumber": "XMS43FBK2",
+          "ProductDescription": "442 V2 ACADEMY FG",
+          "ProductName": "442 V2 ACADEMY FG",
+          "ProductSearchName": "442 V2 ACADEMY FG"
+        },
+        {
+          "ProductNumber": "W880BX7",
+          "ProductDescription": "880v7 GORETEX",
+          "ProductName": "W880V7",
+          "ProductSearchName": "W880V7"
+        },
+        {
+          "ProductNumber": "WW550BK3",
+          "ProductDescription": "550v3 new upper",
+          "ProductName": "550V3",
+          "ProductSearchName": "550V3"
+        },
+        {
+          "ProductNumber": "35000322",
+          "ProductDescription": "990V4SpLcTruCamoS",
+          "ProductName": "990V4SpLcTruCamoS",
+          "ProductSearchName": "990V4SpLcTruCamoS"
+        },
+        {
+          "ProductNumber": "XU475PA",
+          "ProductDescription": "S1'25 U475",
+          "ProductName": "S1'25 U475",
+          "ProductSearchName": "S1'25 U475"
+        },
+        {
+          "ProductNumber": "MT31554",
+          "ProductDescription": "NB Athletics Bertrand Aznar T-Shirt 2",
+          "ProductName": "NB Athletics Bertrand Aznar T-Shirt 2",
+          "ProductSearchName": "NB Athletics Bertran"
+        },
+        {
+          "ProductNumber": "13-4190",
+          "ProductDescription": "TF14F birch f/NK4",
+          "ProductName": "TF14F birch f/NK4",
+          "ProductSearchName": "TF14F birch f/NK4"
+        },
+        {
+          "ProductNumber": "MJ93782",
+          "ProductDescription": "NB Basketball Finisher Full Zip",
+          "ProductName": "NB Basketball Finisher Full Zip",
+          "ProductSearchName": "NB Basketball Finish"
+        },
+        {
+          "ProductNumber": "WL515CBA",
+          "ProductDescription": "BRA - L2L",
+          "ProductName": "515",
+          "ProductSearchName": "515"
+        },
+        {
+          "ProductNumber": "XWASMPAN2",
+          "ProductDescription": "NB Sampher v2",
+          "ProductName": "NB Sampher v2",
+          "ProductSearchName": "NB Sampher v2"
+        },
+        {
+          "ProductNumber": "XMR530TGB",
+          "ProductDescription": "530",
+          "ProductName": "530",
+          "ProductSearchName": "530"
+        },
+        {
+          "ProductNumber": "XWXMTRRK1",
+          "ProductDescription": "MINIMUS TR",
+          "ProductName": "MINIMUS TR",
+          "ProductSearchName": "MINIMUS TR"
+        },
+        {
+          "ProductNumber": "PL3000K3",
+          "ProductDescription": "Black PL3000v3",
+          "ProductName": "TPU 3000v3",
+          "ProductSearchName": "TPU 3000v3"
+        },
+        {
+          "ProductNumber": "XWROAVJW",
+          "ProductDescription": "Fresh Foam Roav",
+          "ProductName": "Fresh Foam Roav",
+          "ProductSearchName": "Fresh Foam Roav"
+        },
+        {
+          "ProductNumber": "51000187",
+          "ProductDescription": "990V4HtTrSmRaven",
+          "ProductName": "990V4HtTrSmRaven",
+          "ProductSearchName": "990V4HtTrSmRaven"
+        },
+        {
+          "ProductNumber": "AWP35439",
+          "ProductDescription": "W WOL TA PT",
+          "ProductName": "Woollike Tapered Pants",
+          "ProductSearchName": "Woollike Tapered Pan"
+        },
+        {
+          "ProductNumber": "TMWJ778",
+          "ProductDescription": "STRTM JKT",
+          "ProductName": "Stratum Rain Jacket",
+          "ProductSearchName": "Stratum Rain Jacket"
+        },
+        {
+          "ProductNumber": "45000398",
+          "ProductDescription": "JFG992 ENT 2pcSz8",
+          "ProductName": "JFG992 ENT 2pcSz8",
+          "ProductSearchName": "JFG992 ENT 2pcSz8"
+        },
+        {
+          "ProductNumber": "AM574GIC",
+          "ProductDescription": "New Balance All Coasts AM574",
+          "ProductName": "New Balance All Coasts AM574",
+          "ProductSearchName": "New Balance All Coas"
+        },
+        {
+          "ProductNumber": "XMRTMOLO1",
+          "ProductDescription": "MRTMOV1",
+          "ProductName": "MRTMOV1",
+          "ProductSearchName": "MRTMOV1"
+        },
+        {
+          "ProductNumber": "NBWJ2650",
+          "ProductDescription": "Soft Shell Systems Jacket",
+          "ProductName": "Soft Shell Systems Jacket",
+          "ProductSearchName": "Soft Shell Systems J"
+        },
+        {
+          "ProductNumber": "XSF1FGD7",
+          "ProductDescription": "Furon v7 Pro FG",
+          "ProductName": "Furon v7 Pro FG",
+          "ProductSearchName": "Furon v7 Pro FG"
+        },
+        {
+          "ProductNumber": "TMWT714",
+          "ProductDescription": "TECH POLO",
+          "ProductName": "Tech Polo",
+          "ProductSearchName": "Tech Polo"
+        },
+        {
+          "ProductNumber": "YV574NLH",
+          "ProductDescription": "574V1 FTWR PK-NL",
+          "ProductName": "574 VARSITY SPORT",
+          "ProductSearchName": "574 VARSITY SPORT"
+        },
+        {
+          "ProductNumber": "PS327GRY",
+          "ProductDescription": "PS327v1",
+          "ProductName": "327",
+          "ProductSearchName": "327"
+        },
+        {
+          "ProductNumber": "XPHB550FB",
+          "ProductDescription": "550 HOOK & LOOP",
+          "ProductName": "550 HOOK & LOOP",
+          "ProductSearchName": "550 HOOK & LOOP"
+        },
+        {
+          "ProductNumber": "PSB480VP",
+          "ProductDescription": "PSB480V1",
+          "ProductName": "480",
+          "ProductSearchName": "480"
+        },
+        {
+          "ProductNumber": "DBS204",
+          "ProductDescription": "Boys Emulator 2 Game Short",
+          "ProductName": "Boys Emulator 2 Game Short",
+          "ProductSearchName": "Boys Emulator 2 Game"
+        },
+        {
+          "ProductNumber": "MT11606Z",
+          "ProductDescription": "Heartbreak Hill Graphic Tee",
+          "ProductName": "Heartbreak Hill Graphic Tee",
+          "ProductSearchName": "Heartbreak Hill Grap"
+        },
+        {
+          "ProductNumber": "XUL420VC2",
+          "ProductDescription": "UL420V2",
+          "ProductName": "UL420V2",
+          "ProductSearchName": "UL420V2"
+        },
+        {
+          "ProductNumber": "50-2586",
+          "ProductDescription": "52INDsny44400BlkRT",
+          "ProductName": "52inDsny44400BlkRT",
+          "ProductSearchName": "52inDsny44400BlkRT"
+        },
+        {
+          "ProductNumber": "EJT3457",
+          "ProductDescription": "EBFLT HOODY",
+          "ProductName": "Ebbsfleet United Hoody",
+          "ProductSearchName": "Ebbsfleet United Hoo"
+        },
+        {
+          "ProductNumber": "WT93163",
+          "ProductDescription": "RLNTLS SS CREW",
+          "ProductName": "Relentless Short Sleeve Crew",
+          "ProductSearchName": "Relentless Short Sle"
+        },
+        {
+          "ProductNumber": "EJT9017",
+          "ProductDescription": "Juniors Strike Long Sleeve Jersey",
+          "ProductName": "Juniors Strike Long Sleeve Jersey",
+          "ProductSearchName": "Juniors Strike Long"
+        },
+        {
+          "ProductNumber": "XMD1100BR",
+          "ProductDescription": "1100",
+          "ProductName": "1100",
+          "ProductSearchName": "1100"
+        },
+        {
+          "ProductNumber": "L4040AT4",
+          "ProductDescription": "Altuve, Jose",
+          "ProductName": "L4040V4",
+          "ProductSearchName": "L4040V4"
+        },
+        {
+          "ProductNumber": "WARISRB4",
+          "ProductDescription": "WARISV4",
+          "ProductName": "Fresh Foam Arishi v4",
+          "ProductSearchName": "Fresh Foam Arishi v4"
+        },
+        {
+          "ProductNumber": "MT41250",
+          "ProductDescription": "Athletics Tank",
+          "ProductName": "Athletics Tank",
+          "ProductSearchName": "Athletics Tank"
+        },
+        {
+          "ProductNumber": "PC574HBO",
+          "ProductDescription": "PC574V1",
+          "ProductName": "574",
+          "ProductSearchName": "574"
+        },
+        {
+          "ProductNumber": "XMSF1F606",
+          "ProductDescription": "Furv6+ R2S FG",
+          "ProductName": "Furv6+ R2S FG",
+          "ProductSearchName": "Furv6+ R2S FG"
+        },
+        {
+          "ProductNumber": "35-2505",
+          "ProductDescription": "M998RhtStrpTidepo",
+          "ProductName": "M998RhtStrpTidepo",
+          "ProductSearchName": "M998RhtStrpTidepo"
+        },
+        {
+          "ProductNumber": "CM997HBT",
+          "ProductDescription": "MEN",
+          "ProductName": "997H",
+          "ProductSearchName": "997H"
+        },
+        {
+          "ProductNumber": "XWTNTRLT1",
+          "ProductDescription": "FuelCore NITREL Trail",
+          "ProductName": "FuelCore NITREL Trail",
+          "ProductSearchName": "FuelCore NITREL Trai"
+        },
+        {
+          "ProductNumber": "50-5123",
+          "ProductDescription": "44401 56IN StrmBlu",
+          "ProductName": "44401 56in StrmBlu",
+          "ProductSearchName": "44401 56in StrmBlu"
+        },
+        {
+          "ProductNumber": "51000283",
+          "ProductDescription": "MnOptCtrlwvlblSMC",
+          "ProductName": "MnOptCtrlwvlblSMC",
+          "ProductSearchName": "MnOptCtrlwvlblSMC"
+        },
+        {
+          "ProductNumber": "GM500CP1",
+          "ProductDescription": "GM500V1",
+          "ProductName": "500v1",
+          "ProductSearchName": "500v1"
+        },
+        {
+          "ProductNumber": "XPC574CP1",
+          "ProductDescription": "574",
+          "ProductName": "574",
+          "ProductSearchName": "574"
+        },
+        {
+          "ProductNumber": "81-0457",
+          "ProductDescription": "M997NAE SOLE/INS",
+          "ProductName": "M997NAE SOLE/INS",
+          "ProductSearchName": "M997NAE SOLE/INS"
+        },
+        {
+          "ProductNumber": "MT230902",
+          "ProductDescription": "AS Roma Third Short Sleeve Jersey",
+          "ProductName": "AS Roma Third Short Sleeve Jersey",
+          "ProductSearchName": "AS Roma Third Short"
+        },
+        {
+          "ProductNumber": "AWT3163Y",
+          "ProductDescription": "Nagoya Printed Impact Run Short Sleeve",
+          "ProductName": "Nagoya Printed Impact Run Short Sleeve",
+          "ProductSearchName": "Nagoya Printed Impac"
+        },
+        {
+          "ProductNumber": "XWKIRABE",
+          "ProductDescription": "DYNASOFT KIRAMEKU",
+          "ProductName": "DYNASOFT KIRAMEKU",
+          "ProductSearchName": "DYNASOFT KIRAMEKU"
+        },
+        {
+          "ProductNumber": "XMXTRNRMV",
+          "ProductDescription": "TRNR",
+          "ProductName": "TRNR",
+          "ProductSearchName": "TRNR"
+        },
+        {
+          "ProductNumber": "AMS22359",
+          "ProductDescription": "NBX Woodland Escape Knit Short",
+          "ProductName": "NBX Woodland Escape Knit Short",
+          "ProductSearchName": "NBX Woodland Escape"
+        }
+      ]
+    }
+  ]
+}
