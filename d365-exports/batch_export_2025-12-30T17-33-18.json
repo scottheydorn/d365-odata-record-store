@@ -1,0 +1,637 @@
+{
+  "metadata": {
+    "exportedAt": "2025-12-30T17:33:18.676Z",
+    "d365Environment": "https://nb-test-2.sandbox.operations.dynamics.com",
+    "entityCount": 1,
+    "totalRecords": 124,
+    "exportedBy": "scott.heydorn@newbalance.com"
+  },
+  "entities": [
+    {
+      "name": "EDGENBCategories",
+      "recordCount": 124,
+      "records": [
+        {
+          "Category": "01",
+          "Active": "Yes",
+          "Description": "Running"
+        },
+        {
+          "Category": "02",
+          "Active": "Yes",
+          "Description": "Baseball"
+        },
+        {
+          "Category": "03",
+          "Active": "Yes",
+          "Description": "Football"
+        },
+        {
+          "Category": "04",
+          "Active": "Yes",
+          "Description": "Cheerleading"
+        },
+        {
+          "Category": "05",
+          "Active": "Yes",
+          "Description": "Tennis"
+        },
+        {
+          "Category": "06",
+          "Active": "Yes",
+          "Description": "Cross Training"
+        },
+        {
+          "Category": "07",
+          "Active": "Yes",
+          "Description": "Basketball"
+        },
+        {
+          "Category": "08",
+          "Active": "Yes",
+          "Description": "Athleisure"
+        },
+        {
+          "Category": "09",
+          "Active": "Yes",
+          "Description": "Boots"
+        },
+        {
+          "Category": "10",
+          "Active": "Yes",
+          "Description": "Soccer"
+        },
+        {
+          "Category": "11",
+          "Active": "Yes",
+          "Description": "Dress"
+        },
+        {
+          "Category": "12",
+          "Active": "Yes",
+          "Description": "Outdoor"
+        },
+        {
+          "Category": "13",
+          "Active": "Yes",
+          "Description": "Work"
+        },
+        {
+          "Category": "14",
+          "Active": "Yes",
+          "Description": "Training"
+        },
+        {
+          "Category": "15",
+          "Active": "Yes",
+          "Description": "Walking"
+        },
+        {
+          "Category": "16",
+          "Active": "Yes",
+          "Description": "Cycling"
+        },
+        {
+          "Category": "18",
+          "Active": "Yes",
+          "Description": "Adventure Sports"
+        },
+        {
+          "Category": "21",
+          "Active": "Yes",
+          "Description": "Goals/Nets"
+        },
+        {
+          "Category": "22",
+          "Active": "Yes",
+          "Description": "Handles/Shafts"
+        },
+        {
+          "Category": "23",
+          "Active": "Yes",
+          "Description": "Heads"
+        },
+        {
+          "Category": "24",
+          "Active": "Yes",
+          "Description": "Headwear"
+        },
+        {
+          "Category": "25",
+          "Active": "Yes",
+          "Description": "Helmets"
+        },
+        {
+          "Category": "27",
+          "Active": "Yes",
+          "Description": "Protective"
+        },
+        {
+          "Category": "29",
+          "Active": "Yes",
+          "Description": "Sticks"
+        },
+        {
+          "Category": "30",
+          "Active": "Yes",
+          "Description": "Golf"
+        },
+        {
+          "Category": "31",
+          "Active": "Yes",
+          "Description": "Net Ball"
+        },
+        {
+          "Category": "32",
+          "Active": "Yes",
+          "Description": "Indoor"
+        },
+        {
+          "Category": "33",
+          "Active": "Yes",
+          "Description": "Sandals"
+        },
+        {
+          "Category": "34",
+          "Active": "Yes",
+          "Description": "Volleyball"
+        },
+        {
+          "Category": "35",
+          "Active": "Yes",
+          "Description": "Stringing"
+        },
+        {
+          "Category": "38",
+          "Active": "Yes",
+          "Description": "Yoga"
+        },
+        {
+          "Category": "40",
+          "Active": "Yes",
+          "Description": "Shoe Components"
+        },
+        {
+          "Category": "41",
+          "Active": "Yes",
+          "Description": "Lifestyle"
+        },
+        {
+          "Category": "42",
+          "Active": "Yes",
+          "Description": "Tee Shirts"
+        },
+        {
+          "Category": "43",
+          "Active": "Yes",
+          "Description": "Court"
+        },
+        {
+          "Category": "44",
+          "Active": "Yes",
+          "Description": "Casual"
+        },
+        {
+          "Category": "45",
+          "Active": "Yes",
+          "Description": "Fitness"
+        },
+        {
+          "Category": "46",
+          "Active": "Yes",
+          "Description": "Sports Bras"
+        },
+        {
+          "Category": "47",
+          "Active": "Yes",
+          "Description": "Team"
+        },
+        {
+          "Category": "48",
+          "Active": "Yes",
+          "Description": "Kids"
+        },
+        {
+          "Category": "50",
+          "Active": "Yes",
+          "Description": "Cricket"
+        },
+        {
+          "Category": "60",
+          "Active": "Yes",
+          "Description": "Hockey"
+        },
+        {
+          "Category": "61",
+          "Active": "Yes",
+          "Description": "Lacrosse"
+        },
+        {
+          "Category": "62",
+          "Active": "Yes",
+          "Description": "Aerobic"
+        },
+        {
+          "Category": "63",
+          "Active": "Yes",
+          "Description": "All Other Performance"
+        },
+        {
+          "Category": "64",
+          "Active": "Yes",
+          "Description": "All Weather"
+        },
+        {
+          "Category": "65",
+          "Active": "Yes",
+          "Description": "Casual Athletic"
+        },
+        {
+          "Category": "66",
+          "Active": "Yes",
+          "Description": "Casual Boots"
+        },
+        {
+          "Category": "67",
+          "Active": "Yes",
+          "Description": "Casual Sandals"
+        },
+        {
+          "Category": "68",
+          "Active": "Yes",
+          "Description": "Casual Shoes"
+        },
+        {
+          "Category": "69",
+          "Active": "Yes",
+          "Description": "Cheer"
+        },
+        {
+          "Category": "70",
+          "Active": "Yes",
+          "Description": "Classics"
+        },
+        {
+          "Category": "71",
+          "Active": "Yes",
+          "Description": "Cleated"
+        },
+        {
+          "Category": "72",
+          "Active": "Yes",
+          "Description": "Dress Shoes"
+        },
+        {
+          "Category": "73",
+          "Active": "Yes",
+          "Description": "Hiking/Lite Hiking"
+        },
+        {
+          "Category": "74",
+          "Active": "Yes",
+          "Description": "Outdoor Sport Sandal"
+        },
+        {
+          "Category": "75",
+          "Active": "Yes",
+          "Description": "Recreational"
+        },
+        {
+          "Category": "76",
+          "Active": "Yes",
+          "Description": "Shoes"
+        },
+        {
+          "Category": "77",
+          "Active": "Yes",
+          "Description": "Skate"
+        },
+        {
+          "Category": "78",
+          "Active": "Yes",
+          "Description": "Sport Sandal"
+        },
+        {
+          "Category": "79",
+          "Active": "Yes",
+          "Description": "Work/Occupational/Safety Boot"
+        },
+        {
+          "Category": "80",
+          "Active": "Yes",
+          "Description": "Work/Occupational/Safety Shoe"
+        },
+        {
+          "Category": "81",
+          "Active": "Yes",
+          "Description": "N/A"
+        },
+        {
+          "Category": "82",
+          "Active": "Yes",
+          "Description": "Balls"
+        },
+        {
+          "Category": "83",
+          "Active": "Yes",
+          "Description": "Shin Guards"
+        },
+        {
+          "Category": "84",
+          "Active": "Yes",
+          "Description": "Bags"
+        },
+        {
+          "Category": "85",
+          "Active": "Yes",
+          "Description": "Gloves"
+        },
+        {
+          "Category": "86",
+          "Active": "Yes",
+          "Description": "Kits"
+        },
+        {
+          "Category": "89",
+          "Active": "Yes",
+          "Description": "Accessories"
+        },
+        {
+          "Category": "90",
+          "Active": "Yes",
+          "Description": "Promotional Items"
+        },
+        {
+          "Category": "91",
+          "Active": "Yes",
+          "Description": "Performance"
+        },
+        {
+          "Category": "92",
+          "Active": "Yes",
+          "Description": "Broad Market"
+        },
+        {
+          "Category": "94",
+          "Active": "Yes",
+          "Description": "Casual Dress"
+        },
+        {
+          "Category": "95",
+          "Active": "Yes",
+          "Description": "Dress Casual"
+        },
+        {
+          "Category": "96",
+          "Active": "Yes",
+          "Description": "Total Baseball and Fast Pitch"
+        },
+        {
+          "Category": "97",
+          "Active": "Yes",
+          "Description": "Total Casual Athletic"
+        },
+        {
+          "Category": "98",
+          "Active": "Yes",
+          "Description": "Total Cricket and Other FOP"
+        },
+        {
+          "Category": "99",
+          "Active": "Yes",
+          "Description": "Total Football"
+        },
+        {
+          "Category": "A0",
+          "Active": "Yes",
+          "Description": "Total Global Football"
+        },
+        {
+          "Category": "A1",
+          "Active": "Yes",
+          "Description": "Total Kids"
+        },
+        {
+          "Category": "A2",
+          "Active": "Yes",
+          "Description": "Total Lacrosse"
+        },
+        {
+          "Category": "A3",
+          "Active": "Yes",
+          "Description": "Total Lifestyle"
+        },
+        {
+          "Category": "A4",
+          "Active": "Yes",
+          "Description": "Total Running"
+        },
+        {
+          "Category": "A5",
+          "Active": "Yes",
+          "Description": "Total Skate"
+        },
+        {
+          "Category": "A6",
+          "Active": "Yes",
+          "Description": "Total Tennis"
+        },
+        {
+          "Category": "A7",
+          "Active": "Yes",
+          "Description": "Total Training"
+        },
+        {
+          "Category": "A8",
+          "Active": "Yes",
+          "Description": "Total Walking"
+        },
+        {
+          "Category": "A9",
+          "Active": "Yes",
+          "Description": "Total Outdoor"
+        },
+        {
+          "Category": "B0",
+          "Active": "Yes",
+          "Description": "Style Marker"
+        },
+        {
+          "Category": "B1",
+          "Active": "Yes",
+          "Description": "Bats"
+        },
+        {
+          "Category": "B2",
+          "Active": "Yes",
+          "Description": "Pads"
+        },
+        {
+          "Category": "B3",
+          "Active": "Yes",
+          "Description": "Total Fastpitch"
+        },
+        {
+          "Category": "B4",
+          "Active": "Yes",
+          "Description": "Total Baseball"
+        },
+        {
+          "Category": "B5",
+          "Active": "Yes",
+          "Description": "Total Performance"
+        },
+        {
+          "Category": "B6",
+          "Active": "Yes",
+          "Description": "Total Studio"
+        },
+        {
+          "Category": "B7",
+          "Active": "Yes",
+          "Description": "Total Basketball"
+        },
+        {
+          "Category": "B8",
+          "Active": "Yes",
+          "Description": "Total Hockey"
+        },
+        {
+          "Category": "B9",
+          "Active": "Yes",
+          "Description": "Total Golf"
+        },
+        {
+          "Category": "C0",
+          "Active": "Yes",
+          "Description": "Total Classics"
+        },
+        {
+          "Category": "C1",
+          "Active": "Yes",
+          "Description": "Total Cricket"
+        },
+        {
+          "Category": "C2",
+          "Active": "Yes",
+          "Description": "Total Sportstyle"
+        },
+        {
+          "Category": "C3",
+          "Active": "Yes",
+          "Description": "Total Essentials"
+        },
+        {
+          "Category": "C4",
+          "Active": "Yes",
+          "Description": "Total Australian Football"
+        },
+        {
+          "Category": "C5",
+          "Active": "Yes",
+          "Description": "Total Cheerleading"
+        },
+        {
+          "Category": "C6",
+          "Active": "Yes",
+          "Description": "US Football"
+        },
+        {
+          "Category": "C7",
+          "Active": "Yes",
+          "Description": "Soccer/Football"
+        },
+        {
+          "Category": "C8",
+          "Active": "Yes",
+          "Description": "Sport Lifestyle"
+        },
+        {
+          "Category": "C9",
+          "Active": "Yes",
+          "Description": "Aerobic/Cheer/Dance"
+        },
+        {
+          "Category": "CA",
+          "Active": "Yes",
+          "Description": "Active Clothing Material"
+        },
+        {
+          "Category": "CO",
+          "Active": "Yes",
+          "Description": "Obsolete Clothing Material"
+        },
+        {
+          "Category": "D0",
+          "Active": "Yes",
+          "Description": "Cold/All Weather Boots"
+        },
+        {
+          "Category": "D1",
+          "Active": "Yes",
+          "Description": "Hiking/Trekking"
+        },
+        {
+          "Category": "D2",
+          "Active": "Yes",
+          "Description": "Outdoor/Water Sandal"
+        },
+        {
+          "Category": "D3",
+          "Active": "Yes",
+          "Description": "Sport Slide"
+        },
+        {
+          "Category": "D4",
+          "Active": "Yes",
+          "Description": "Work/Occupational/Safety"
+        },
+        {
+          "Category": "D5",
+          "Active": "Yes",
+          "Description": "American Football"
+        },
+        {
+          "Category": "SA",
+          "Active": "Yes",
+          "Description": "Active Shoe Material"
+        },
+        {
+          "Category": "SI",
+          "Active": "Yes",
+          "Description": "In-active Shoe Material"
+        },
+        {
+          "Category": "SO",
+          "Active": "Yes",
+          "Description": "Obsolete Shoe Material"
+        },
+        {
+          "Category": "SP",
+          "Active": "Yes",
+          "Description": "Boston Stitched Uppers"
+        },
+        {
+          "Category": "SQ",
+          "Active": "Yes",
+          "Description": "Poor Quality Shoe Material"
+        },
+        {
+          "Category": "D6",
+          "Active": "Yes",
+          "Description": "Softball"
+        },
+        {
+          "Category": "D7",
+          "Active": "Yes",
+          "Description": "Pickleball"
+        },
+        {
+          "Category": "D8",
+          "Active": "Yes",
+          "Description": "Padel"
+        }
+      ]
+    }
+  ]
+}
