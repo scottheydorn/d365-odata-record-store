@@ -1,0 +1,45 @@
+{
+  "metadata": {
+    "exportedAt": "2025-12-30T17:20:05.865Z",
+    "d365Environment": "https://nb-test-2.sandbox.operations.dynamics.com",
+    "entityCount": 1,
+    "totalRecords": 7,
+    "exportedBy": "scott.heydorn@newbalance.com"
+  },
+  "entities": [
+    {
+      "name": "AccountStructureActivations",
+      "recordCount": 7,
+      "records": [
+        {
+          "AccountStructure": "307",
+          "DoActivate": "No"
+        },
+        {
+          "AccountStructure": "535",
+          "DoActivate": "No"
+        },
+        {
+          "AccountStructure": "638",
+          "DoActivate": "No"
+        },
+        {
+          "AccountStructure": "679",
+          "DoActivate": "No"
+        },
+        {
+          "AccountStructure": "Balance Sheet",
+          "DoActivate": "Yes"
+        },
+        {
+          "AccountStructure": "Revenue & COGS",
+          "DoActivate": "Yes"
+        },
+        {
+          "AccountStructure": "SG&A",
+          "DoActivate": "Yes"
+        }
+      ]
+    }
+  ]
+}
