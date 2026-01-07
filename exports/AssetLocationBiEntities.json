@@ -1,0 +1,1562 @@
+[
+  {
+    "dataAreaId": "us10",
+    "Location": "1000",
+    "TaxRegistration_JP": 0,
+    "Name": "Boston - Corporate",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145326
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1001",
+    "TaxRegistration_JP": 0,
+    "Name": "Lawrence - 5 South Union",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145327
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1002",
+    "TaxRegistration_JP": 0,
+    "Name": "Skowhegan",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145328
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1003",
+    "TaxRegistration_JP": 0,
+    "Name": "Norridgewock",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145329
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1004",
+    "TaxRegistration_JP": 0,
+    "Name": "Norway",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145330
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1005",
+    "TaxRegistration_JP": 0,
+    "Name": "Methuen",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145331
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1010",
+    "TaxRegistration_JP": 0,
+    "Name": "Lawrence - DC",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145332
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1011",
+    "TaxRegistration_JP": 0,
+    "Name": "Ontario - DC",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145333
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1012",
+    "TaxRegistration_JP": 0,
+    "Name": "Fontana - DC",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145334
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1020",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Allen",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145335
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1021",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Armory",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145336
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1022",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Asheville",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145337
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1023",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Aurora Farms",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145338
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1024",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Avon",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145339
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1025",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Baraboo",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145340
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1026",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Barstow",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145341
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1027",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Birch Run",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145342
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1028",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Boylston St.",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1764745394,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145343
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1029",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Boston (Flagship)",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145344
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1030",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Brighton",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145345
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1031",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Cabazon",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145346
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1032",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Camarillo",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145347
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1033",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Centralia",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145348
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1034",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Charleston",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145349
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1035",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Charlotte",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145350
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1036",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Chicago",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145351
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1037",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Citadel",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145352
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1038",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Clarksburg",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145353
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1039",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Clinton",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145354
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1040",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Concord",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145355
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1041",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Daytona Beach",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145356
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1042",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Denver",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145357
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1043",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Destin",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145358
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1044",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Dolphin",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145359
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1045",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Ellenton",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145360
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1046",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Gilroy",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145361
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1047",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Glendale",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145362
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1048",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Grapevine",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145363
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1049",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Great Lakes",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145364
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1050",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Grove City",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145365
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1051",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Hanover",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145366
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1052",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Houston",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145367
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1053",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Jersey Gardens",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145368
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1054",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Kissimmee",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145369
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1055",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Kittery",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145370
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1056",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Lake George",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145371
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1057",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Las Vegas North",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145372
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1058",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Lawrence",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145373
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1059",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Leesburg",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145374
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1060",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Little Rock",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145375
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1061",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Livermore",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145376
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1062",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Manchester",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145377
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1063",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Merrimack",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145378
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1064",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Milpitas",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145379
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1065",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Miromar",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145380
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1066",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Myrtle Beach",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145381
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1067",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Myrtle Beach South",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145382
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1068",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - NB HQ",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145383
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1069",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - New Lancaster",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145384
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1070",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - New Orleans",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145385
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1071",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - New York",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145386
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1072",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - North Conway",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145387
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1073",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - NY Marathon I",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145388
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1074",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - NYC II",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145389
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1075",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - NYC Run Hub",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145390
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1076",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Ontario",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145391
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1077",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Opry Mills",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145392
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1078",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Orlando",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145393
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1079",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Orlando Marketplace",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145394
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1080",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Oxford",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145395
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1081",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Oxon",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145396
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1082",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Palm Beach",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145397
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1083",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Park City",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145398
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1084",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Philadelphia",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145399
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1085",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Riverhead",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145400
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1086",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - San Clemente",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145401
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1087",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - San Diego",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145402
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1088",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - San Francisco",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145403
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1089",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - San Marcos",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145404
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1090",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Seattle",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145405
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1091",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Sevierville",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145406
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1092",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Skowhegan",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145407
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1093",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - St. Augustine",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145408
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1094",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Sunrise",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145409
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1095",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Tampa",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145410
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1096",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Tannersville",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145411
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1097",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Texas City",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145412
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1098",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Vacaville",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145413
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1099",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Vineland",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145414
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1100",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Williamsburg",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145415
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1101",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Woodbridge",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145416
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1102",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Woodburn",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145417
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1103",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Woodbury Commons",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145418
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1104",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Woodstock",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145419
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1105",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Wrentham",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637145420
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1006",
+    "TaxRegistration_JP": 0,
+    "Name": "Boston - 145 Newton St.",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637146076
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1013",
+    "TaxRegistration_JP": 0,
+    "Name": "Shoreline - DC",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637146077
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1018",
+    "TaxRegistration_JP": 0,
+    "Name": "Geyer - Office",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "US10",
+    "SourceKey": 5637146078
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1007",
+    "TaxRegistration_JP": 0,
+    "Name": "Boston - The Track",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147576
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1008",
+    "TaxRegistration_JP": 0,
+    "Name": "NYC Showroom",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147577
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1009",
+    "TaxRegistration_JP": 0,
+    "Name": "Numeric - Long Beach CA",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147578
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1014",
+    "TaxRegistration_JP": 0,
+    "Name": "Nashville - DC",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147579
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1106",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Quarry Market",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147580
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1107",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Wash DC",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147581
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1108",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Santa Monica",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147582
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1109",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Forum",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147583
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1110",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Strand",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147584
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1111",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Encinitas",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147585
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1112",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Highland Park",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147586
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1113",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Brandywine",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147587
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1114",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Christiana",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147588
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1115",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Richmond",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147589
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1116",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Farmington Hills",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147590
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1117",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Troy",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147591
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1118",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - South Coast Plaza",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147592
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1119",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Newbury St.",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147593
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1120",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Winston-Salem",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147594
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1121",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Carlsbad",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147595
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1122",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Las Vegas South",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147596
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1123",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Lincoln Park",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147597
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1124",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Littleton",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637147598
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1126",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - The Woodlands",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637148326
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1125",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Hilton Head",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637148327
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1127",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Torrance",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149076
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1128",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Brentwood",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149077
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1129",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Georgetown",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149078
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1130",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - NYC UWS",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149079
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1131",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Cherry Hill",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149080
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1132",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Sunset Blvd",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149081
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1133",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Santana Row",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149082
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1134",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Mosaic District",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149083
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1135",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - TBD",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149084
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1136",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Columbus",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149085
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1137",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Twin Cities",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149086
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1138",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Cincinnati",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149087
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1139",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Traverse Mountain",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149088
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1140",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Austin",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149089
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1141",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Branson",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637149826
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1017",
+    "TaxRegistration_JP": 0,
+    "Name": "Londonderry",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637150576
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1142",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - North Georgia",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1849679196,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637150577
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1143",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Stanford",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637151326
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1144",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Dolphin Mall II",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637151327
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1145",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Tulsa",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637152076
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1146",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Castle Rock",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637152077
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1147",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Highland Village",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637152078
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1148",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Galleria Edina",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637152079
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1149",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Raleigh",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637152080
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1150",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Jersey Shore",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637152081
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1151",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Philadelphia II",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637152826
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1152",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Oakbrook Center",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1922727133,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637154326
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1153",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Ontario Mills",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637155076
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1015",
+    "TaxRegistration_JP": 0,
+    "Name": "Salt Lake City - DC",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637155826
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1154",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Mall of America",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637156576
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1155",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Bethesda Row",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637157326
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1156",
+    "TaxRegistration_JP": 0,
+    "Name": "Retail - Corte Madera",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637158076
+  },
+  {
+    "dataAreaId": "us10",
+    "Location": "1019",
+    "TaxRegistration_JP": 0,
+    "Name": "Boston - 80 Guest St.",
+    "LogisticsLocation": 0,
+    "SysRecVersion": 1,
+    "SysDataAreaId": "us10",
+    "SourceKey": 5637158077
+  }
+]
